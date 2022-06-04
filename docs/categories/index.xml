@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Martín González</title>
-    <link>http://example.org/categories/</link>
+    <link>https://martingm05.github.io/my-site/categories/</link>
     <description>Recent content in Categories on Martín González</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://martingm05.github.io/my-site/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>syntax</title>
-      <link>http://example.org/categories/syntax/</link>
+      <link>https://martingm05.github.io/my-site/categories/syntax/</link>
       <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/syntax/</guid>
+      <guid>https://martingm05.github.io/my-site/categories/syntax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>http://example.org/categories/themes/</link>
+      <link>https://martingm05.github.io/my-site/categories/themes/</link>
       <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/themes/</guid>
+      <guid>https://martingm05.github.io/my-site/categories/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>http://example.org/categories/development/</link>
+      <link>https://martingm05.github.io/my-site/categories/development/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/development/</guid>
+      <guid>https://martingm05.github.io/my-site/categories/development/</guid>
       <description></description>
     </item>
     

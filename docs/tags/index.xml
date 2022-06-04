@@ -2,98 +2,98 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Martín González</title>
-    <link>http://example.org/tags/</link>
+    <link>https://martingm05.github.io/my-site/tags/</link>
     <description>Recent content in Tags on Martín González</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://martingm05.github.io/my-site/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>css</title>
-      <link>http://example.org/tags/css/</link>
+      <link>https://martingm05.github.io/my-site/tags/css/</link>
       <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/css/</guid>
+      <guid>https://martingm05.github.io/my-site/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>http://example.org/tags/html/</link>
+      <link>https://martingm05.github.io/my-site/tags/html/</link>
       <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/html/</guid>
+      <guid>https://martingm05.github.io/my-site/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>http://example.org/tags/markdown/</link>
+      <link>https://martingm05.github.io/my-site/tags/markdown/</link>
       <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/markdown/</guid>
+      <guid>https://martingm05.github.io/my-site/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>privacy</title>
-      <link>http://example.org/tags/privacy/</link>
+      <link>https://martingm05.github.io/my-site/tags/privacy/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/privacy/</guid>
+      <guid>https://martingm05.github.io/my-site/tags/privacy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shortcodes</title>
-      <link>http://example.org/tags/shortcodes/</link>
+      <link>https://martingm05.github.io/my-site/tags/shortcodes/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/shortcodes/</guid>
+      <guid>https://martingm05.github.io/my-site/tags/shortcodes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>text</title>
-      <link>http://example.org/tags/text/</link>
+      <link>https://martingm05.github.io/my-site/tags/text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/text/</guid>
+      <guid>https://martingm05.github.io/my-site/tags/text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>emoji</title>
-      <link>http://example.org/tags/emoji/</link>
+      <link>https://martingm05.github.io/my-site/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/emoji/</guid>
+      <guid>https://martingm05.github.io/my-site/tags/emoji/</guid>
       <description></description>
     </item>
     
     <item>
       <title>development</title>
-      <link>http://example.org/tags/development/</link>
+      <link>https://martingm05.github.io/my-site/tags/development/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/development/</guid>
+      <guid>https://martingm05.github.io/my-site/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>http://example.org/tags/hugo/</link>
+      <link>https://martingm05.github.io/my-site/tags/hugo/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/hugo/</guid>
+      <guid>https://martingm05.github.io/my-site/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>http://example.org/tags/themes/</link>
+      <link>https://martingm05.github.io/my-site/tags/themes/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/themes/</guid>
+      <guid>https://martingm05.github.io/my-site/tags/themes/</guid>
       <description></description>
     </item>
     
